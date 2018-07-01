@@ -13,7 +13,7 @@
    height="233.3278"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="elementary-logotype_white-on-blue.svg"
    inkscape:export-filename="/home/hex/Pictures/Client_Work/elementary/First-Draft/Logo/elementary-v2-path-postlig.png"
    inkscape:export-xdpi="72.571426"
@@ -55,7 +55,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="438.88159"
+     inkscape:cx="340.88159"
      inkscape:cy="-26.494225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -74,79 +74,98 @@
     <sodipodi:guide
        orientation="0,1"
        position="138.05984,95.859188"
-       id="guide3092" />
+       id="guide3092"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="134.57955,95.859188"
-       id="guide3094" />
+       id="guide3094"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="584.18897,81.584468"
-       id="guide3098" />
+       id="guide3098"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="179.058,81.459288"
-       id="guide3100" />
+       id="guide3100"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="171.84706,78.724908"
-       id="guide3102" />
+       id="guide3102"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="652.14003,82.318668"
-       id="guide3908" />
+       id="guide3908"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="651.94863,79.439758"
-       id="guide3910" />
+       id="guide3910"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="653.76113,80.431948"
-       id="guide3912" />
+       id="guide3912"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="598.02284,143.23273"
-       id="guide3914" />
+       id="guide3914"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="700.94863,154.17414"
-       id="guide3917" />
+       id="guide3917"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="718.183,47.334288"
-       id="guide3920" />
+       id="guide3920"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="717.88222,50.209288"
-       id="guide3922" />
+       id="guide3922"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="717.09706,50.056948"
-       id="guide3924" />
+       id="guide3924"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0.90735831,0.42035806"
        position="721.48146,122.53044"
-       id="guide3979" />
+       id="guide3979"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0.90891047,0.41699132"
        position="722.07215,128.08295"
-       id="guide3981" />
+       id="guide3981"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="561.51736,180.24797"
-       id="guide4003" />
+       id="guide4003"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="507.03456,9.3967876"
-       id="guide3135" />
+       id="guide3135"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="336.10498,27.093058"
-       id="guide3145" />
+       id="guide3145"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="323.90739,34.340898"
-       id="guide3147" />
+       id="guide3147"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -156,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,7 +185,7 @@
      id="layer1"
      transform="translate(-103.71544,-562.93116)">
     <rect
-       style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#47a8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#64baff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect3349-49"
        width="234"
        height="849"
