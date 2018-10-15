@@ -17,7 +17,7 @@ Both should be used with the following in mind:
 * The marks should always be monochromatic; typically white if on a dark background, or black if on a light background.
 
 ## Logotype
-![elementary Logotype](./851x315_blue.png)
+![elementary Logotype](./logotype-white-on-blue.png)
 
 The logotype is to be used when space allows to refer to elementary the company. It can be used before a product name to refer to a specific product of elementary.
 
@@ -27,7 +27,7 @@ The logotype should always be used under the following guidelines:
 * Do not use the logotype at small sizes; if it is not clear, use the logomark instead.
 
 ## Logomark
-![elementary Logomark](./125x125.png)
+![elementary Logomark](./logomark-white-on-blue.png)
 
 The "e" logomark is to be used to refer to elementary the company when space is constrained or a square ratio is required.
 Color
