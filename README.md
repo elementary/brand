@@ -48,7 +48,8 @@ elementary employs the use of color combined with our name and marks to establis
 # Fonts
 
 For web and print, we use Raleway for headings and Open Sans for body copy. For code blocks, we use Roboto Mono.
-Third Parties
+
+# Third Parties
 
 We encourage third party developers creating products for elementary OS to adopt certain elements of the elementary brand to achieve consistency:
 
